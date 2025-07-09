@@ -1,7 +1,6 @@
-streamlit
-numpy
+python-telegram-bot==13.15
+tensorflow==2.15.0
 librosa
-tensorflow
-tensorflow-hub
-soundfile
+numpy
+ffmpeg-python
 
